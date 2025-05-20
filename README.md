@@ -1,6 +1,16 @@
 # TEXT-SUMMARIZATION-TOOL
 
+### *COMPANY*: CODETECH IT SOLUTIONS
 
+### *NAME*: NIKHIL KUMAR
+
+### *INTERN ID*: CODF69
+
+### *DOMAIN*: AIML
+
+### *DURATION*: 4 WEEKS
+
+### *MENTOR*: NEELA SANTOSH KUMAR
 
 
 This repository contains a Python script for advanced text summarization, by strategically combining traditional Natural Language Processing (NLP) techniques with the power of the PEGASUS Transformer model.
