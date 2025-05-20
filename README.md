@@ -57,8 +57,8 @@ The result is a summarization solution that not only generates new sentences but
 ## Installation
 Clone the repository (or download the Zip File):
 
-`git clone https://github.com/your-username/advanced-abstractive-summarization.git`
-`cd advanced-abstractive-summarization`
+`git clone https://github.com/Nikhil-usci-ku/TEXT-SUMMARIZATION-TOOL.git`
+`cd TEXT-SUMMARIZATION-TOOL`
 
 
 
