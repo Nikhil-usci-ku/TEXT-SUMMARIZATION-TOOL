@@ -71,4 +71,27 @@ The script will attempt to download NLTK and spaCy models automatically.
 
 
 ## Running
-Run the Python script Task1.py directly.
+Run the Python script Task1.py directly. Paste The lengthy article to get summary.
+
+## Output
+* User Input
+![image](https://github.com/user-attachments/assets/aadece15-6827-42ee-828d-2e4338c93d44)
+![image](https://github.com/user-attachments/assets/0e6f7a85-65fa-4068-a2b9-cacb6aabb7e0)
+
+
+
+* Summerized Output
+![image](https://github.com/user-attachments/assets/df0213b5-51a3-4993-8043-e4be70275bb7)
+
+
+
+
+
+
+
+
+
+
+
+
+
