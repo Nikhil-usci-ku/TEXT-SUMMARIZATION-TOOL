@@ -22,13 +22,16 @@ Beam Search Decoding: Utilizes beam search for higher quality and more diverse g
 Getting Started
 Follow these steps to set up and run the summarization script.
 
-Prerequisites
+## Prerequisites
 > Python 3.12
 
-Installation
+## Installation
 Clone the repository (or download the Zip File):
+
 `git clone https://github.com/your-username/advanced-abstractive-summarization.git`
 `cd advanced-abstractive-summarization`
+
+
 
 Install the necessary Python libraries provided in requirements.txt file:
 
