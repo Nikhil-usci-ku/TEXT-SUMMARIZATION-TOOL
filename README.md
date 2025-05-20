@@ -28,10 +28,11 @@ Prerequisites
 
 Installation
 Clone the repository (or download the Zip File):
-`git clone https://github.com/your-username/advanced-abstractive-summarization.git
->cd advanced-abstractive-summarization`
+`git clone https://github.com/your-username/advanced-abstractive-summarization.git`
+`cd advanced-abstractive-summarization`
 
 Install the necessary Python libraries provided in requirements.txt file:
+
 `pip install -r requirements.txt`
 
 The script will attempt to download NLTK and spaCy models automatically.
