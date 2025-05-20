@@ -37,9 +37,7 @@ cd advanced-abstractive-summarization
 
 Install the necessary Python libraries:
 
-Bash
-
-pip install transformers scikit-learn nltk spacy
+> pip install -r requirements.txt
 Download NLTK and spaCy models:
 The script will attempt to download these automatically, but you can run them manually for a smoother first experience:
 
