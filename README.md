@@ -54,7 +54,7 @@ The result is a summarization solution that not only generates new sentences but
 > Python 3.12
 
 ## Installation
-Clone the repository (or download the Zip File):
+Clone the repository (or download the zip file):
 
 `git clone https://github.com/Nikhil-usci-ku/TEXT-SUMMARIZATION-TOOL.git`
 
