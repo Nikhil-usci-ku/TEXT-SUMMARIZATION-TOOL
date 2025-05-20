@@ -43,4 +43,4 @@ The script will attempt to download NLTK and spaCy models automatically.
 
 
 ## Running
-Run the Python script directly.
+Run the Python script Task1.py directly.
