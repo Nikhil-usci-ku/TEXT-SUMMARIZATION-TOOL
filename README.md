@@ -24,26 +24,17 @@ Getting Started
 Follow these steps to set up and run the summarization script.
 
 Prerequisites
-Make sure you have Python 3.8+ installed.
+> Python 3.12
 
 Installation
-Clone the repository (or copy the code):
+Clone the repository (or download the Zip File):
+`git clone https://github.com/your-username/advanced-abstractive-summarization.git
+>cd advanced-abstractive-summarization`
 
-Bash
+Install the necessary Python libraries provided in requirements.txt file:
+`pip install -r requirements.txt`
 
-git clone https://github.com/your-username/advanced-abstractive-summarization.git
-cd advanced-abstractive-summarization
-(Replace your-username with your actual GitHub username if you're cloning this from your own repo, otherwise just copy the Python code into a .py file)
+The script will attempt to download NLTK and spaCy models automatically.
 
-Install the necessary Python libraries:
-
-> pip install -r requirements.txt
-Download NLTK and spaCy models:
-The script will attempt to download these automatically, but you can run them manually for a smoother first experience:
-
-Bash
-
-python -m nltk.downloader stopwords punkt
-python -m spacy download en_core_web_sm
-Usage
-Run the Python script directly. The example article string within the if __name__ == "__main__": block can be replaced with your own text.
+##Running
+Run the Python script directly.
