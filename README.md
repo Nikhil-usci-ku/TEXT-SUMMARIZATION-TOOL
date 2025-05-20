@@ -41,6 +41,5 @@ Install the necessary Python libraries provided in requirements.txt file:
 The script will attempt to download NLTK and spaCy models automatically.
 
 
-
 ## Running
 Run the Python script Task1.py directly.
