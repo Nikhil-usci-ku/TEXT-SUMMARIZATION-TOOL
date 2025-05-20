@@ -1,21 +1,21 @@
 # TEXT-SUMMARIZATION-TOOL
 
-### *COMPANY*: CODETECH IT SOLUTIONS
+*COMPANY*: CODETECH IT SOLUTIONS
 
-### *NAME*: NIKHIL KUMAR
+*NAME*: NIKHIL KUMAR
 
-### *INTERN ID*: CODF69
+*INTERN ID*: CODF69
 
-### *DOMAIN*: AIML
+*DOMAIN*: AIML
 
-### *DURATION*: 4 WEEKS
+*DURATION*: 4 WEEKS
 
-### *MENTOR*: NEELA SANTOSH KUMAR
+*MENTOR*: NEELA SANTOSH KUMAR
 
 
-This repository contains a Python script for advanced text summarization, by strategically combining traditional Natural Language Processing (NLP) techniques with the power of the PEGASUS Transformer model.
+> This repository contains a Python script for advanced text summarization, by strategically combining traditional Natural Language Processing (NLP) techniques with the power of the PEGASUS Transformer model.
 
-Unlike traditional extractive summarization that merely picks sentences from the original text, this solution generates entirely new, concise, and fluent sentences that capture the core meaning of the input article.
+> Unlike traditional extractive summarization that merely picks sentences from the original text, this solution generates entirely new, concise, and fluent sentences that capture the core meaning of the input article.
 
 ## Description
 This project introduces an advanced text summarization system that aims to deliver results by intelligently combining the strengths of traditional Natural Language Processing (NLP) techniques with cutting-edge Transformer models, specifically PEGASUS. The core objective is to move beyond mere extractive summarization (which simply selects and reorders existing sentences) and achieve true abstractive summarization, where the system generates entirely new, concise, and semantically accurate sentences that capture the essence of the input text.
