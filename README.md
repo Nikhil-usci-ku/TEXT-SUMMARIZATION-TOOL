@@ -58,6 +58,7 @@ The result is a summarization solution that not only generates new sentences but
 Clone the repository (or download the Zip File):
 
 `git clone https://github.com/Nikhil-usci-ku/TEXT-SUMMARIZATION-TOOL.git`
+
 `cd TEXT-SUMMARIZATION-TOOL`
 
 
