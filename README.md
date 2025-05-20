@@ -7,11 +7,10 @@ This repository contains a Python script for advanced text summarization, by str
 
 Unlike traditional extractive summarization that merely picks sentences from the original text, this solution generates entirely new, concise, and fluent sentences that capture the core meaning of the input article.
 
-Why This Approach?
+## Why This Approach?
 Modern abstractive summarization, powered by large language models (LLMs), has revolutionized how we condense information. While models like PEGASUS are incredibly powerful on their own, integrating targeted traditional NLP steps can sometimes provide them with explicit signals, potentially leading to even more focused and relevant summaries.
 
 This project combines:
-
 Traditional NLP: For robust feature extraction, specifically identifying keywords (via TF-IDF) and named entities (via spaCy). These serve as explicit "hints" to the abstractive model about the article's most crucial elements.
 PEGASUS Model: A state-of-the-art Transformer model pre-trained specifically for abstractive summarization. It excels at understanding the essence of text and generating novel, coherent summaries. By providing it with NLP-extracted context, we aim to guide its powerful generation process towards the most salient points.
 Features
@@ -35,7 +34,10 @@ Install the necessary Python libraries provided in requirements.txt file:
 
 `pip install -r requirements.txt`
 
+
 The script will attempt to download NLTK and spaCy models automatically.
 
-##Running
+
+
+## Running
 Run the Python script directly.
