@@ -12,7 +12,6 @@
 
 *MENTOR*: NEELA SANTOSH KUMAR
 
-
 > This repository contains a Python script for advanced text summarization, by strategically combining traditional Natural Language Processing (NLP) techniques with the power of the PEGASUS Transformer model.
 
 > Unlike traditional extractive summarization that merely picks sentences from the original text, this solution generates entirely new, concise, and fluent sentences that capture the core meaning of the input article.
@@ -61,15 +60,11 @@ Clone the repository (or download the Zip File):
 
 `cd TEXT-SUMMARIZATION-TOOL`
 
-
-
 Install the necessary Python libraries provided in requirements.txt file:
 
 `pip install -r requirements.txt`
 
-
-The script will attempt to download NLTK and spaCy models automatically.
-
+> The script will attempt to download NLTK and spaCy models automatically upon first run.
 
 ## Running
 Run the Python script Task1.py directly. Paste The lengthy article to get summary.
@@ -77,22 +72,8 @@ Run the Python script Task1.py directly. Paste The lengthy article to get summar
 ## Output
 * User Input
 ![image](https://github.com/user-attachments/assets/aadece15-6827-42ee-828d-2e4338c93d44)
+
 ![image](https://github.com/user-attachments/assets/0e6f7a85-65fa-4068-a2b9-cacb6aabb7e0)
-
-
 
 * Summerized Output
 ![image](https://github.com/user-attachments/assets/df0213b5-51a3-4993-8043-e4be70275bb7)
-
-
-
-
-
-
-
-
-
-
-
-
-
